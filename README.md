@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning [Shopify](https://www.shopify.com/)
 - 💬 Ask me about Laravel and Shopify related stuff.
 - ⚡ Key: I spend almost 13 hours in development.
-- [X]
+- [x]
 
 
 
