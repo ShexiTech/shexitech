@@ -1,4 +1,4 @@
-## I'm [Shahzad Hussain!](https://github.com/shexitech) 👋
+## I'm [Shahzad Hussain!](mailto:dev.shahzad.hussain@gmail.com) 👋
 
 <a href="https://twitter.com/shexitech">
   <img align="left" alt="Shahzad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
