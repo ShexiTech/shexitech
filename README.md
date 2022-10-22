@@ -18,9 +18,10 @@
 
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 🌱 I’m currently learning [React](https://reactjs.org/)
-- 🌱 I’m currently learning [Shopify](https://www.shopify.com/)
+- 🌱 I’m currently working on [Shopify](https://www.shopify.com/)
 - 💬 Ask me about Laravel and Shopify related stuff.
 - ⚡ Key: I spend almost 13 hours in development.
+- 📫 How to reach me dev.shahzad.hussain@gmail.com
 
 
 
