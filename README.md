@@ -9,7 +9,7 @@
 
 
 
-A seasoned and creative FullStack developer with 8+ years of experience leveraging PHP Laravel,Codeigniter and Shopify to build web applications, and interactive features that drive business growth. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
+A seasoned and creative Full-Stack Developer with 8+ years of experience building custom web applications using PHP frameworks like Laravel and CodeIgniter, and developing e-commerce solutions on platforms like Shopify. I focus on aligning user goals with effective, elegant solutions, ensuring high-quality and scalable site delivery.
 
 
  
